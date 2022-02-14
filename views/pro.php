@@ -5,7 +5,7 @@
 use App\core\App;
 ?>
 
-<h2><?php 
+    <h2><?php 
 // $user=App::$app->user;
 echo $user->firstname."'s";
 
